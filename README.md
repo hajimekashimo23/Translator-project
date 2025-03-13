@@ -1,6 +1,6 @@
 # **Translator Bot**
 
-This is a Discord Bot that functions as a translator from French to English. It's easy and fun to use! Google (Noto Color Emoji 16.0)
+This is a Discord Bot that functions as a translator from French to English. It's easy and fun to use! 
 
 
 # **Features**
