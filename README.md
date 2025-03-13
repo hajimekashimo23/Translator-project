@@ -1,4 +1,22 @@
-# Translator-project
+Translator Bot
 
-This is a Bot discord type translator, from France to English. It's completely easy and fun to use!
-Don't forget to always use '!' prefix to runs the code!
+This is a Discord Bot that functions as a translator from French to English. It's easy and fun to use!
+
+
+Features
+
+Translates messages from French to English.
+
+Simple and efficient bot commands.
+
+User-friendly experience for Discord users.
+
+
+Usage
+
+Always use the '!' prefix to run the commands.
+
+Send a message with the translation command, and the bot will respond with the English translation.
+
+Enjoy using the Translator Bot! 🚀
+
