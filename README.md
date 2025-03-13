@@ -3,7 +3,7 @@
 This is a Discord Bot that functions as a translator from French to English. It's easy and fun to use!
 
 
-**Features**
+# **Features**
 
 Translates messages from French to English.
 
@@ -12,7 +12,7 @@ Simple and efficient bot commands.
 User-friendly experience for Discord users.
 
 
-**Usage**
+# **Usage**
 
 Always use the '!' prefix to run the commands.
 
